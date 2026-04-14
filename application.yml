@@ -13,6 +13,10 @@ spring:
     show-sql: true
     hibernate:
       ddl-auto: create
+com:
+  saa:
+    firstName: "prakash"
+    lastName: "nagesh"
 
 server:
   port: 8082
